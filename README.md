@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Pessoa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-    Tecnologias que eu amo !! ❤️❤️❤️
+    Minhas principais tecnologias  ❤️❤️❤️
 
 <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
