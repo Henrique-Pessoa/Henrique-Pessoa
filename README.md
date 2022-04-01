@@ -18,7 +18,7 @@
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
-<h4>**Contato**<p>Discord:henr1#0783;<br>Email:
+<h4>**Contato**<p><br>Email:
 henriqueoliveirabalieiro@hotmail.com.</p</h4>
 </div>
 
