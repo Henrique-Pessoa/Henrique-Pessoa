@@ -5,10 +5,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henrique-Pessoa&theme=tokyonight)
 
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique-Pessoa&theme=transparent)
-
-
     Tecnologias que eu mais uso !!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-Pessoa&theme=transparent)
