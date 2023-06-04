@@ -12,7 +12,7 @@
 
     Tecnologias que eu mais uso !!
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-Pessoa&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-Pessoa&theme=tokyonight)
 
 
 
