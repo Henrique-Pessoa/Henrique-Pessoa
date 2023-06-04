@@ -6,7 +6,7 @@
 
     Tecnologias que eu mais uso !!
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Henrique-Pessoa}&theme={2077}&exclude={exclude}
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Henrique-Pessoa}&theme={2077}
 
 
 
