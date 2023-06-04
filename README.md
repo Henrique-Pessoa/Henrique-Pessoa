@@ -5,8 +5,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique-Pessoa&theme=2077)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henrique-Pessoa&theme=2077)
-
     Tecnologias que eu mais uso !!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-Pessoa&theme=2077)
