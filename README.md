@@ -6,7 +6,8 @@
 
     Tecnologias que eu mais uso !!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Pessoa&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
     Minhas principais tecnologias:
