@@ -4,7 +4,8 @@
 
 <div align = "center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henrique-Pessoa&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique-Pessoa&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henrique-Pessoa&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique-Pessoa&theme=tokyonight)
     
  </div>
 
