@@ -2,12 +2,12 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-oliveira-balieiro-0342a0215/)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique-Pessoa&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique-Pessoa&theme=dracula)
 
 
     Tecnologias que eu mais uso !!
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-Pessoa&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-Pessoa&theme=dracula)
 
 
 
